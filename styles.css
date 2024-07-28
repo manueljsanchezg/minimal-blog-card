@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Sora';
+    
+}
+
+.minimal-blog-card{
+    border-radius: 16px;
+    margin-top: 164px;
+    background-color: #FAFAF9;
+    width: 368px;
+    height: 375px;
+}
+
+.cactus-image {
+    width: 336px;
+    height: 152px;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+p {
+    text-align: left;
+    font-size: 14px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.small-text-container {
+    color: #E6D6FC;
+    width: 30px;
+    height: 30px;
+}
+
+.small-text {
+    color: #883AE1;
+    background-color: #E6D6FC;
+    border-radius: 8px;
+    font-size: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 15px;
+    height: 10px;
+    width: 50px;
+    
+}
+
+.main-text {
+    font-size: 14px;
+    margin-top: 6px;
+    margin-bottom: 20px;
+    color: #6C727F;
+}
+
+.border {
+    border: solid 0.1px #E5EAF0;
+}
+
+.author {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #6C727F;
+}
+
+.card-title {
+    margin-left: 16px;
+    margin-right: 16px;
+    font-size: 18px;
+    font-family: 'Sora';
+    margin-bottom: 6px;
+    color: #20293A;
+}
